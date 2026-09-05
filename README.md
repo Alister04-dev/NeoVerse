@@ -1,5 +1,8 @@
 # NeoVerse: AI City Survival System
 
+A city survival console based game (Programming Assignment as a Year 2,
+Semester 2 student in completion of his Diploma in Information Technology).
+
 A console-based C++ simulation built for the PROGRAMMING 622 assignment. It models
 an AI-managed city (NeoVerse Labs, 2035) using STL containers, a hand-built linked
 list, object-oriented design, and file persistence.
