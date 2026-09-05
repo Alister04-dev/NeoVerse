@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NeoVerse.vcxproj" Id="a4c1e6f2-3b8d-4e5a-9f6c-1d2e3f4a5b6c" />
+</Solution>
